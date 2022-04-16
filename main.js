@@ -34,6 +34,4 @@ $(function() {
 		autoplay: true,
   		autoplaySpeed: 1000,
 	});
-
-
 })
