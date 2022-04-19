@@ -4,7 +4,7 @@
 body {
 	max-width: 1440px;
 	width: 100%;
-	margin: 0;
+	margin: 0 auto;
 	padding: 0;
 	align-content: center;
 	font-family: 'Lora', serif;
@@ -420,13 +420,16 @@ hr {
 	color: white;
 }
 
+.header_for_bid {
+	padding-top: 68px;
+}
+
 .bid_block_header {
 	color: black;
 	font-size: 62px;
 	text-align: center;
 	margin-left: 583px;
 	position: static;
-	padding-top: 45px;
 	text-decoration: none;
 }
 
